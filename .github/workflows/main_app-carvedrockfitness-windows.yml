@@ -52,4 +52,4 @@ jobs:
           app-name: 'app-carvedrockfitness-windows'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_91A2EAC427B04946B65E918A6DD3A214 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9077599A9D0D4E5BB73BB9B6973DC7BB }}
